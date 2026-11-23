@@ -293,7 +293,7 @@ The purpose was to explore the relationship between a business's online informat
 
 ### ChatGPT Query 1
 
-![ChatGPT Query - GP Truck Aid](original-project/seo-and-search-visibility/chat-gpt-query.jpg)
+![ChatGPT Query 1 - GP Truck Aid](original-project/seo-and-search-visibility/chat%20gpt%20query%201.jpg)
 
 ### ChatGPT Query 2
 
