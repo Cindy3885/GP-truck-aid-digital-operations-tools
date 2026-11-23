@@ -1,31 +1,34 @@
-# GP Truck Aid – Digital Business Solutions & Interactive Tools
+# GP Truck Aid – Digital Business Project & Interactive Tools
 
-A practical digital business development project exploring how business ideas, creative design, digital platforms, online visibility and interactive technology can come together to create useful solutions.
+GP Truck Aid was an independent heavy-vehicle transport support and emergency assistance business concept developed into a complete digital business project.
 
-GP Truck Aid originally started as a heavy-vehicle transport support and emergency assistance business concept. It has since evolved into a broader digital development project involving business research, website development, branding, digital presence, SEO, GEO, AI visibility and the creation of practical interactive tools.
+The original project included business research, website development, branding, digital presence, online marketing, Search Engine Optimisation (SEO), and exploration of Generative Engine Optimisation (GEO) and AI search visibility.
 
-This repository showcases the original business concept, the digital work behind it and the ongoing development of accessible digital solutions inspired by real business and operational needs.
+Although the original website is no longer hosted on its previous hosting platform and cannot be accessed as a live website, this repository preserves the project history, supporting evidence and selected work.
+
+The original project also provides the inspiration for a collection of independently developed interactive portfolio tools, demonstrating how practical business and operational requirements can be translated into accessible digital solutions.
 
 ---
 
 ## 1. Project Overview
 
-The purpose of this project is to explore, develop and demonstrate practical digital solutions that address business and operational requirements.
+The original GP Truck Aid project brought together several areas of business and digital development.
 
-The project brings together:
+The work included:
 
 - Business concept development and research
 - Website planning, development and content creation
-- Branding and graphic design
+- Branding and visual identity
+- Graphic design and digital content
 - Digital presence and online business development
 - Search Engine Optimisation (SEO)
-- Generative Engine Optimisation (GEO)
+- Generative Engine Optimisation (GEO) exploration
 - AI search visibility and business discovery
-- Interactive calculators and digital tools
-- Business operations and workflow solutions
-- Digital resources and practical problem-solving
+- Online marketing and business information management
 
-The focus is on understanding business needs, researching available technologies and turning ideas into accessible, functional digital solutions.
+The project demonstrates the process of taking a business idea from initial research and concept development through to its digital presentation and online presence.
+
+This repository also includes interactive tools developed separately for portfolio demonstration, inspired by practical requirements identified during the original project.
 
 ---
 
@@ -33,7 +36,7 @@ The focus is on understanding business needs, researching available technologies
 
 GP Truck Aid was originally developed as a heavy-vehicle support and transport services concept.
 
-The original vision covered several areas relevant to the commercial transport industry:
+The business vision covered several areas relevant to the commercial transport industry:
 
 - Heavy-vehicle emergency assistance
 - Fleet management and vehicle performance
@@ -43,13 +46,13 @@ The original vision covered several areas relevant to the commercial transport i
 - Health and safety resources
 - Transport-related information and operational resources
 
-This business concept provided the foundation for the original website, branding, digital presence and subsequent interactive development projects.
+The concept provided the foundation for the original website, branding, online presence and digital development work.
 
 ---
 
 ## 3. Original Website & Digital Presence
 
-The original GP Truck Aid project involved establishing an online business presence and developing the supporting digital foundations.
+A significant part of the original project involved establishing an online business presence and developing the supporting digital foundations.
 
 Work included:
 
@@ -64,15 +67,15 @@ Work included:
 - Online business directory research and listings
 - Google search visibility and indexing research
 
-The original website and supporting digital presence form an important part of this portfolio's practical business development case study.
+The original website served as the central online presence for the business concept.
 
-Historical screenshots and supporting evidence are included in the repository.
+Although the website is no longer hosted and cannot be retrieved as a live website, historical screenshots and supporting materials are preserved in this repository to document the work completed.
 
 ---
 
 ## 4. SEO, GEO & AI Search Visibility
 
-An important part of the project involved exploring how an online business can become discoverable through traditional search engines and emerging AI-powered search and discovery platforms.
+An important part of the original project involved exploring how an online business could become discoverable through traditional search engines and emerging AI-powered search and discovery platforms.
 
 ### Search Engine Optimisation (SEO)
 
@@ -112,9 +115,9 @@ These screenshots document observed results at the time of testing. They are exa
 
 ## 5. Explore Our Interactive Digital Tools
 
-The original GP Truck Aid concept has inspired the development of practical, interactive digital tools designed around real-world transport, fleet-management and operational requirements.
+Inspired by practical business and operational requirements, this portfolio includes independently developed interactive digital tools.
 
-Our tools are designed to be accessible to ordinary users, business owners and transport operators. They can be opened and used directly in a web browser without requiring coding knowledge or software downloads.
+The tools are designed for ordinary users, business owners and transport operators. They can be opened and used directly in a web browser without requiring coding knowledge or software downloads.
 
 ### 🚛 Fleet Management
 
@@ -136,11 +139,11 @@ An interactive calculator designed to help transport operators estimate the oper
 
 **[👉 OPEN & TRY THE LIVE FUEL & TRIP PROFITABILITY CALCULATOR](https://cindy3885.github.io/GP-truck-aid-digital-operations-tools/fleet-management/)**
 
-### 🚚 More Interactive Tools Coming
+The calculator runs directly in the browser and can be used without downloading anything.
 
-Additional tools will be developed and added to this portfolio as the project grows.
+### More Interactive Tools
 
-Planned development areas include:
+Additional portfolio demonstrations may be developed and published across the following areas:
 
 #### Vehicle Performance
 Vehicle performance, axle-load and payload-related calculators and resources.
@@ -160,15 +163,16 @@ Heavy-vehicle emergency support concepts and resources.
 #### Health & Safety Resources
 Practical occupational health, safety and operational resources.
 
-**This section will be updated as new interactive tools are developed and published.**
+New tools will be added to this section as they are completed and published, with direct links so visitors can try them.
 
 ---
 
 ## 6. Design, Technology & Tools
 
-The project has involved researching and working with a variety of digital platforms, creative tools and technologies.
+The original business project and subsequent portfolio demonstrations have involved researching and working with a variety of digital platforms, creative tools and technologies.
 
 ### Website & Development
+
 - GitHub – Repository management, project documentation and version control
 - GitHub Pages – Publishing interactive portfolio demonstrations
 - HTML – Website structure
@@ -176,6 +180,7 @@ The project has involved researching and working with a variety of digital platf
 - JavaScript – Interactive calculator functionality
 
 ### Design & Creative Tools
+
 - Canva – Graphic design, branding materials and digital content
 - Logo and visual identity concept development
 - Digital graphics and promotional content
@@ -183,6 +188,7 @@ The project has involved researching and working with a variety of digital platf
 - Visual layout and presentation
 
 ### Digital Presence & Discoverability
+
 - Google Search Console
 - XML sitemaps
 - Domain and DNS management
@@ -191,6 +197,7 @@ The project has involved researching and working with a variety of digital platf
 - Online business directory research
 
 ### AI & Digital Research
+
 - ChatGPT – Research, content development, problem-solving and AI-assisted coding
 - Microsoft Copilot – AI discovery and business visibility exploration
 - AI-assisted research, development, testing and refinement
@@ -199,9 +206,10 @@ The project has involved researching and working with a variety of digital platf
 
 ## 7. Skills Demonstrated
 
-This project demonstrates practical experience and developing capabilities across business, creative, digital and technical areas.
+The original project and interactive portfolio demonstrations showcase practical experience and developing capabilities across business, creative, digital and technical areas.
 
 ### Business & Operational Skills
+
 - Business concept development
 - Business research and information gathering
 - Understanding operational requirements
@@ -210,6 +218,7 @@ This project demonstrates practical experience and developing capabilities acros
 - Turning business ideas into practical solutions
 
 ### Website & Digital Presence Skills
+
 - Website planning and content structuring
 - Website development and management
 - Digital business presence development
@@ -218,6 +227,7 @@ This project demonstrates practical experience and developing capabilities acros
 - Digital content organisation
 
 ### Design & Creative Skills
+
 - Branding and visual identity development
 - Logo concept development
 - Graphic design using Canva
@@ -227,6 +237,7 @@ This project demonstrates practical experience and developing capabilities acros
 - AI-assisted visual content exploration
 
 ### SEO, GEO & Digital Discoverability
+
 - SEO fundamentals
 - Google Search Console setup and monitoring
 - Sitemap management
@@ -237,6 +248,7 @@ This project demonstrates practical experience and developing capabilities acros
 - Understanding how AI platforms interpret and describe online businesses
 
 ### Interactive Tools & Digital Development
+
 - Defining functional requirements
 - Planning interactive digital tools
 - HTML, CSS and JavaScript implementation with AI assistance
@@ -246,6 +258,7 @@ This project demonstrates practical experience and developing capabilities acros
 - Publishing browser-based interactive tools
 
 ### Project & Digital Workflow Skills
+
 - Project planning and organisation
 - Digital project documentation
 - GitHub repository management
@@ -256,30 +269,35 @@ This project demonstrates practical experience and developing capabilities acros
 
 ---
 
-## 8. Project Status
+## 8. Project History & Status
 
-This repository combines historical work from the original GP Truck Aid concept with new interactive development projects.
+### Original GP Truck Aid Business Project
 
-| Project Area | Status |
-|---|---|
-| Original business concept | Completed case study |
-| Branding and visual direction | Historical work documented |
-| Original website and digital presence | Historical project evidence |
-| SEO and search visibility | Research and evidence documented |
-| GEO exploration | Ongoing learning and exploration |
-| ChatGPT and Copilot visibility | Observed examples documented |
-| Fleet Fuel & Trip Profitability Calculator | Live and functional |
-| Additional interactive tools | Ongoing development |
+**Status: Completed – Historical Project**
 
-The original website is no longer hosted on its previous hosting platform. The interactive portfolio tools are published separately through GitHub Pages.
+The original GP Truck Aid business concept and its digital development work are documented as a completed project.
+
+The original website is no longer hosted on its previous hosting platform and is not available as a live website.
+
+Historical project materials, screenshots and supporting evidence are preserved in this repository to demonstrate the work completed.
+
+### Interactive Portfolio Tools
+
+**Status: Separate Portfolio Development**
+
+The interactive tools are independently developed portfolio demonstrations inspired by practical requirements identified during the original business concept.
+
+The Fuel & Trip Profitability Calculator is live and functional.
+
+Further interactive tools may be added as separate portfolio development projects.
 
 ---
 
-## 9. Project Objectives & Future Development
+## 9. Portfolio Development Objectives
 
-The longer-term objective is to continue developing a collection of useful digital solutions inspired by practical business and operational needs.
+The broader objective of the portfolio is to demonstrate the ability to understand business requirements, research suitable digital technologies and develop practical solutions.
 
-Future development may include:
+Future portfolio projects may include:
 
 - Additional fleet and vehicle calculators
 - Transport and logistics tools
@@ -287,23 +305,24 @@ Future development may include:
 - Maintenance and operational checklists
 - Digital business resources
 - Website and digital presence projects
-- Business workflow and automation solutions
-- Further exploration of AI tools and integrations
+- Business workflow and automation demonstrations
+- AI tools and integrations
+- Creative and digital content projects
 
-The emphasis is on practical functionality, accessibility, creative problem-solving and solutions that address genuine business requirements.
+Each project will demonstrate practical functionality, research, planning, implementation and problem-solving.
 
 ---
 
 ## 10. Important Notes
 
-- GP Truck Aid originated as an independent business concept and digital development project.
-- Historical screenshots and documentation demonstrate work completed during the original project.
-- Interactive tools are original portfolio implementations, with AI-assisted coding support where applicable.
-- AI tools have supported research, development, testing, problem-solving and refinement.
-- The repository documents practical implementation, experimentation, learning and ongoing development.
-- Project features and future plans may evolve as additional solutions are developed.
+- GP Truck Aid originated as an independent business concept and completed digital development project.
+- The original website is no longer hosted and cannot be accessed as a live website.
+- Historical screenshots and documentation are preserved to demonstrate work completed during the original project.
+- Interactive tools are separate portfolio implementations inspired by the original business concept.
+- AI-assisted coding and research have supported development, testing, problem-solving and refinement.
+- The repository documents practical implementation, experimentation, learning and digital development.
 
 ---
 
-**GP Truck Aid – Turning practical business ideas into accessible digital solutions.**
+**GP Truck Aid – From business ideas to practical digital solutions.**
 
