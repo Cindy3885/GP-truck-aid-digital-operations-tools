@@ -64,9 +64,9 @@ This repository preserves that project history and separately showcases new inte
 
 **[OPEN THE LIVE FUEL & TRIP PROFITABILITY CALCULATOR](https://cindy3885.github.io/GP-truck-aid-digital-operations-tools/fleet-management/)**
 
-A working interactive calculator developed as a separate portfolio demonstration, inspired by the commercial vehicle and fleet industry.
+A working interactive calculator I developed as a separate portfolio demonstration, inspired by the commercial vehicle and fleet industry.
 
-This is one of the practical tools developed to demonstrate how a business-related requirement can be translated into a functional web-based solution.
+This is one of the practical tools I developed to demonstrate how a business-related requirement can be translated into a functional web-based solution.
 
 ### What the calculator does
 
@@ -116,7 +116,7 @@ The calculator displays financial results in South African Rand (ZAR).
 
 **[TRY THE WORKING CALCULATOR](https://cindy3885.github.io/GP-truck-aid-digital-operations-tools/fleet-management/)**
 
-**Important:** This calculator is a separate portfolio development project. It is not presented as a working feature of the original GP Truck Aid website or as a currently operating business service.
+**Important:** This calculator is a separate portfolio development project. It is not presented as a working feature of the original GP Truck Aid website or as a currently operating business service. 
 
 ---
 
