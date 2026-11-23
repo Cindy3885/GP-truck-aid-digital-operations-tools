@@ -156,11 +156,11 @@ The resulting screenshots provide examples of AI-generated business descriptions
 
 **ChatGPT Query 1**
 
-![ChatGPT Query 1](../seo-and-search-visibility/chat%20gpt%20query%201.jpeg)
+![chat gpt query 1](../seo-and-search-visibility/chat%20gpt%20query%201.jpeg)
 
 **ChatGPT Query 2**
 
-![ChatGPT Query 2](../seo-and-search-visibility/chat%20gpt%20query%202.jpg)
+![chat gpt query 2](../seo-and-search-visibility/chat%20gpt%20query%202.jpg)
 
 **[View SEO, GEO & AI Search Visibility Evidence](../seo-and-search-visibility/README.md)**
 
