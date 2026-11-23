@@ -64,6 +64,18 @@ Planned demonstrations include:
 
 Each demonstration will be developed as an independent project with its own code and documentation.
 
+## Try the Live Tools
+
+These interactive tools are free to explore and use directly in your browser. No downloads or coding knowledge needed.
+
+### 🚛 Fleet Management
+
+**Fuel & Trip Profitability Calculator**
+
+Calculate fuel requirements, trip expenses, cost per kilometre and estimated profit or loss.
+
+[👉 TRY THE LIVE CALCULATOR](https://cindy3885.github.io/GP-truck-aid-digital-operations-tools/fleet-management/)
+
 ## Health, Safety & Operational Resources
 
 The original concept included practical safety information and downloadable resources.
