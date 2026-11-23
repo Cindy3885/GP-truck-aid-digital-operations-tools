@@ -1,104 +1,56 @@
-# GP Truck Aid – Original Digital Presence
+# GP Truck Aid – SEO, GEO & AI Search Visibility
 
-This section documents the digital presence developed for the original GP Truck Aid business project.
+This section documents search visibility research and AI-powered business discovery explored during the original GP Truck Aid digital business project.
 
-The work included website development, domain configuration, Google Search Console setup, sitemap submission, search indexing research and Facebook business page development.
+The work covered traditional Search Engine Optimisation (SEO), website discoverability and the emerging area of Generative Engine Optimisation (GEO).
 
-The original website is no longer hosted and is not available as a live website. The screenshots below preserve examples of the digital work and online presence established during the project.
-
----
-
-## 1. Original Website & Google Search Presence
-
-The original website provided the online presence for the GP Truck Aid business concept.
-
-The following screenshot records an example of the business appearing in Google search results.
-
-### Google Search Result
-
-![GP Truck Aid Google Search Result](google%20search%20result.png)
+The screenshots below provide examples of AI-generated responses when ChatGPT was asked about GP Truck Aid.
 
 ---
 
-## 2. Domain Setup & Verification
+## 1. Generative Engine Optimisation (GEO)
 
-Setting up the online presence involved domain configuration and DNS verification to connect the website with Google's services.
+Generative Engine Optimisation explores how online business information and website content can be structured to help AI-powered platforms understand and potentially identify a business.
 
-### Domain Setup
+As part of the original project, questions about GP Truck Aid were submitted to ChatGPT to observe how the platform described the business.
 
-![GP Truck Aid Domain Setup](gpt%20domain%20setup_1.png)
+These screenshots preserve the responses observed during those tests.
 
-### Google Search Console DNS Verification
+## 2. ChatGPT Business Discovery
 
-![Google Search Console DNS Verification](gpt%20search%20console%20dns%20verify.png)
+### ChatGPT Query 1
 
----
+![ChatGPT Query 1](chat%20gpt%20query%201.jpeg)
 
-## 3. Sitemap & Website Indexing
+### ChatGPT Query 2
 
-Google Search Console was used to submit the website sitemap and monitor Google's discovery and indexing of website pages.
-
-These screenshots provide historical evidence of the sitemap and indexing information available during the project.
-
-### XML Sitemap
-
-![GP Truck Aid Sitemap](sitemap.png)
-
-### Page Indexing Report
-
-![Google Search Console Page Indexing Report](page%20indexing%20search%20console.png)
-
-### Additional Page Indexing Information
-
-![Google Search Console Additional Indexing Information](page%20indexing%20search%20console%202.png)
+![ChatGPT Query 2](chat%20gpt%20query%202.jpg)
 
 ---
 
-## 4. Facebook Business Presence
+## 3. What This Evidence Demonstrates
 
-A Facebook business presence was also developed to support the brand's online visibility and provide another channel for communicating the business concept and services.
+These examples provide an opportunity to examine:
 
-The following screenshots document examples of the original Facebook page and its content.
+- How AI assistants interpret business information
+- How a business may be described in response to a direct query
+- The relationship between online business information and AI discovery
+- The emerging role of GEO alongside traditional SEO
+- The importance of clear, consistent and accessible business information
 
-### Facebook Page & Content
-
-![GP Truck Aid Facebook Screenshot 1](gpt%20facebook_1.png)
-
-![GP Truck Aid Facebook Screenshot 2](gpt%20facebook_2.png)
-
-![GP Truck Aid Facebook Screenshot 3](gpt%20facebook_3.png)
-
-![GP Truck Aid Facebook Screenshot 4](gpt%20facebook_4.png)
-
-![GP Truck Aid Facebook Screenshot 5](gpt%20facebook_5.png)
-
-![GP Truck Aid Facebook Screenshot 6](gpt%20facebook_6.png)
-
-![GP Truck Aid Facebook Screenshot 7](gpt%20facebook_7.png)
-
-![GP Truck Aid Facebook Screenshot 8](gpt%20facebook_8.png)
+These screenshots document specific observed responses at the time of testing. They do not establish guaranteed or universal visibility across AI platforms.
 
 ---
 
-## 5. Project Notes
+## 4. Project Notes
 
-The screenshots in this section are historical evidence from the original GP Truck Aid digital business project.
+This evidence forms part of the completed original GP Truck Aid business project.
 
-They demonstrate practical work involving:
+The original website is no longer hosted. The screenshots are retained as historical project evidence and as examples of early exploration into AI-powered business discovery.
 
-- Website and online presence development
-- Domain and DNS configuration
-- Google Search Console setup
-- XML sitemap submission
-- Search indexing monitoring
-- Facebook business page development
-- Digital content and online business presentation
-
-The original website is no longer hosted. These materials are retained for portfolio and project documentation purposes.
-
-For examples of AI search visibility, GEO exploration and ChatGPT business discovery, see the separate [SEO & Search Visibility](../seo-and-search-visibility/README.md) section.
+For the original website, domain, Google Search Console and Facebook evidence, see the [Original Digital Presence](../digital-presence/README.md) section.
 
 ---
 
-**GP Truck Aid – Original Digital Presence & Website Evidence**
+**GP Truck Aid – SEO, GEO & AI Search Visibility Evidence**
 
