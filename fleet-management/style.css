@@ -1,0 +1,265 @@
+/* =====================================
+   GP TRUCK AID
+   Fleet Management Calculator
+   Design and Styling
+===================================== */
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background: #f2f5f9;
+    color: #263445;
+    line-height: 1.6;
+}
+
+.container {
+    width: 90%;
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+/* HEADER */
+
+.site-header {
+    background: #14283f;
+    color: #ffffff;
+    padding: 22px 0;
+    border-bottom: 4px solid #e5a12b;
+}
+
+.brand {
+    font-size: 25px;
+    font-weight: 800;
+    letter-spacing: 2px;
+}
+
+.brand-subtitle {
+    color: #cbd5e1;
+    font-size: 14px;
+    margin-top: 2px;
+}
+
+/* INTRODUCTION */
+
+.intro {
+    padding: 45px 0 30px;
+}
+
+.eyebrow {
+    color: #d28b19;
+    font-weight: bold;
+    font-size: 12px;
+    letter-spacing: 1.5px;
+    margin-bottom: 10px;
+}
+
+h1 {
+    color: #14283f;
+    font-size: 34px;
+    line-height: 1.2;
+    margin-bottom: 15px;
+}
+
+.intro p {
+    max-width: 700px;
+    color: #64748b;
+}
+
+/* CALCULATOR PANEL */
+
+.calculator-panel,
+.results-panel,
+.information-panel {
+    background: #ffffff;
+    padding: 30px;
+    border-radius: 12px;
+    margin-bottom: 25px;
+    box-shadow: 0 4px 18px rgba(20, 40, 63, 0.07);
+}
+
+h2 {
+    color: #14283f;
+    font-size: 22px;
+    margin-bottom: 10px;
+}
+
+.section-description {
+    color: #718096;
+    font-size: 14px;
+    margin-bottom: 25px;
+}
+
+/* INPUT FIELDS */
+
+.form-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 22px;
+}
+
+.form-group {
+    display: flex;
+    flex-direction: column;
+}
+
+.full-width {
+    grid-column: 1 / -1;
+}
+
+label {
+    font-size: 14px;
+    font-weight: bold;
+    margin-bottom: 8px;
+    color: #34465b;
+}
+
+input {
+    width: 100%;
+    padding: 13px;
+    border: 1px solid #cbd5e1;
+    border-radius: 7px;
+    font-size: 15px;
+    color: #263445;
+    background: #ffffff;
+}
+
+input:focus {
+    outline: none;
+    border-color: #2875b9;
+    box-shadow: 0 0 0 3px rgba(40, 117, 185, 0.12);
+}
+
+/* BUTTONS */
+
+button {
+    border: none;
+    border-radius: 7px;
+    padding: 14px 22px;
+    margin-top: 25px;
+    margin-right: 10px;
+    cursor: pointer;
+    font-size: 15px;
+    font-weight: bold;
+    transition: background 0.2s ease;
+}
+
+#calculateButton {
+    background: #1769aa;
+    color: #ffffff;
+}
+
+#calculateButton:hover {
+    background: #12558c;
+}
+
+.reset-button {
+    background: #e8edf3;
+    color: #34465b;
+}
+
+.reset-button:hover {
+    background: #d7e0ea;
+}
+
+/* RESULTS */
+
+.results-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 18px;
+}
+
+.result-card {
+    background: #f2f6fa;
+    border: 1px solid #e1e8f0;
+    border-radius: 9px;
+    padding: 22px;
+}
+
+.result-card span {
+    display: block;
+    color: #64748b;
+    font-size: 13px;
+    margin-bottom: 8px;
+}
+
+.result-card strong {
+    display: block;
+    font-size: 23px;
+    color: #14283f;
+}
+
+.highlight-card {
+    background: #edf5fc;
+    border-left: 4px solid #1769aa;
+}
+
+.highlight-card small {
+    display: block;
+    margin-top: 8px;
+    color: #64748b;
+}
+
+/* INFORMATION SECTION */
+
+.information-panel p {
+    color: #64748b;
+    font-size: 14px;
+    margin-top: 12px;
+}
+
+/* FOOTER */
+
+.site-footer {
+    background: #14283f;
+    color: #cbd5e1;
+    text-align: center;
+    padding: 25px 15px;
+    margin-top: 40px;
+    font-size: 13px;
+}
+
+.site-footer strong {
+    color: #ffffff;
+    letter-spacing: 1px;
+}
+
+/* MOBILE RESPONSIVENESS */
+
+@media (max-width: 650px) {
+
+    .container {
+        width: 92%;
+    }
+
+    h1 {
+        font-size: 27px;
+    }
+
+    .calculator-panel,
+    .results-panel,
+    .information-panel {
+        padding: 22px;
+    }
+
+    .form-grid,
+    .results-grid {
+        grid-template-columns: 1fr;
+    }
+
+    .full-width {
+        grid-column: auto;
+    }
+
+    button {
+        width: 100%;
+        margin-right: 0;
+    }
+
+}
+
