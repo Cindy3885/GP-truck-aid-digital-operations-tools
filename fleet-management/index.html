@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="GP Truck Aid Fleet Fuel and Trip Profitability Calculator.">
+    <title>GP Truck Aid | Fleet Fuel & Trip Profitability Calculator</title>
+
+    <link rel="stylesheet" href="style.css">
+    <script src="script.js" defer></script>
+</head>
+
+<body>
+
+    <header class="site-header">
+        <div class="container">
+            <p class="brand">GP TRUCK AID</p>
+            <p class="brand-subtitle">Fleet Management Tools</p>
+        </div>
+    </header>
+
+    <main class="container">
+
+        <section class="intro">
+            <p class="eyebrow">GP TRUCK AID | FLEET OPERATIONS</p>
+            <h1>Fuel & Trip Profitability Calculator</h1>
+            <p>
+                Calculate estimated fuel requirements, trip expenses
+                and potential profitability using your own trip details.
+            </p>
+        </section>
+
+        <section class="calculator-panel">
+
+            <h2>Enter Your Trip Details</h2>
+
+            <p class="section-description">
+                Enter your information below to estimate your trip costs.
+            </p>
+
+            <form id="tripCalculator">
+
+                <div class="form-grid">
+
+                    <div class="form-group">
+                        <label for="distance">Trip Distance (km)</label>
+                        <input type="number" id="distance" min="0.1"
+                            step="any" placeholder="e.g. 450" required>
+                    </div>
+
+                    <div class="form-group">
+                        <label for="consumption">Fuel Consumption (L/100 km)</label>
+                        <input type="number" id="consumption" min="0.1"
+                            step="any" placeholder="e.g. 32" required>
+                    </div>
+
+                    <div class="form-group">
+                        <label for="fuelPrice">Fuel Price (R per litre)</label>
+                        <input type="number" id="fuelPrice" min="0"
+                            step="any" placeholder="e.g. 23.50" required>
+                    </div>
+
+                    <div class="form-group">
+                        <label for="otherCosts">Other Trip Expenses (R)</label>
+                        <input type="number" id="otherCosts" min="0"
+                            step="any" placeholder="e.g. 1200"
+                            value="0" required>
+                    </div>
+
+                    <div class="form-group full-width">
+                        <label for="revenue">Expected Trip Revenue (R)</label>
+                        <input type="number" id="revenue" min="0"
+                            step="any" placeholder="e.g. 8500" required>
+                    </div>
+
+                </div>
+
+                <button type="submit" id="calculateButton">
+                    Calculate Trip Costs
+                </button>
+
+                <button type="reset" class="reset-button">
+                    Clear Values
+                </button>
+
+            </form>
+        </section>
+
+        <section class="results-panel" id="results" aria-live="polite">
+
+            <h2>Your Trip Calculation Results</h2>
+
+            <p class="section-description">
+                Your estimated results will appear here.
+            </p>
+
+            <div class="results-grid">
+
+                <div class="result-card">
+                    <span>Estimated Fuel Required</span>
+                    <strong id="fuelResult">--</strong>
+                </div>
+
+                <div class="result-card">
+                    <span>Estimated Fuel Cost</span>
+                    <strong id="fuelCostResult">--</strong>
+                </div>
+
+                <div class="result-card">
+                    <span>Total Trip Expenses</span>
+                    <strong id="totalCostResult">--</strong>
+                </div>
+
+                <div class="result-card highlight-card">
+                    <span>Estimated Profit / Loss</span>
+                    <strong id="profitResult">--</strong>
+                    <small id="profitMessage">
+                        Enter your trip details to calculate profitability.
+                    </small>
+                </div>
+
+            </div>
+        </section>
+
+        <section class="information-panel">
+            <h2>About GP Truck Aid</h2>
+
+            <p>
+                This Fleet Fuel & Trip Profitability Calculator is an
+                original demonstration tool developed for the GP Truck Aid
+                digital operations project.
+            </p>
+
+            <p>
+                It uses user-provided trip information to estimate fuel
+                requirements, operating expenses and potential trip
+                profitability. Results are estimates and actual costs
+                may vary.
+            </p>
+        </section>
+
+    </main>
+
+    <footer class="site-footer">
+        <div class="container">
+            <p><strong>GP TRUCK AID</strong> | Fleet Management Tools</p>
+            <p>Digital Operations Case Study | Demonstration Tool</p>
+        </div>
+    </footer>
+
+</body>
+</html>
+
