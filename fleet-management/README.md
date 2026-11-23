@@ -1,41 +1,36 @@
-# Fleet Management | Interactive Calculator
+# Fleet Management Tools
 
-## Project Overview
+Practical digital tools designed to help fleet owners, transport operators and drivers understand vehicle operating costs and make better-informed business decisions.
 
-This demonstration is inspired by the fleet management and operational calculators developed as part of the original GP Truck Aid concept.
+## 🚛 Fuel & Trip Profitability Calculator
 
-The aim is to demonstrate how everyday fleet information can be converted into useful calculations to support transport planning and operational decision-making.
+**Status: Completed – Live Demo Available**
 
-## Tool: Fuel & Trip Profitability Calculator
+An interactive calculator that helps users estimate the fuel requirements and financial performance of a trip.
 
-The interactive calculator will allow users to enter:
+### What the calculator does
 
-- Trip distance in kilometres.
-- Vehicle fuel consumption in litres per 100 kilometres.
-- Fuel price per litre.
-- Additional trip operating expenses.
-- Expected trip revenue.
+- Calculates estimated fuel required based on distance and vehicle fuel consumption.
+- Calculates total fuel cost using the fuel price per litre.
+- Includes additional trip expenses.
+- Calculates total trip expenses.
+- Estimates trip profit or loss based on revenue.
+- Calculates operating cost per kilometre.
+- Displays results in South African Rand (ZAR).
 
-The tool will calculate:
+### Try the live calculator
 
-- Estimated fuel consumption.
-- Estimated fuel cost.
-- Total trip expenses.
-- Estimated trip profit or loss.
+[👉 OPEN THE FUEL & TRIP PROFITABILITY CALCULATOR](https://cindy3885.github.io/GP-truck-aid-digital-operations-tools/fleet-management/)
 
-## Development Technologies
+The calculator opens directly in your browser and can be used without downloading anything or knowing how to code.
 
-- HTML5 – calculator structure and input fields.
-- CSS3 – layout, styling and responsive design.
-- JavaScript – calculation logic, input validation and dynamic results.
+### Project development
 
-## Functionality
+This calculator was developed as an original interactive portfolio project based on practical transport and fleet-management requirements.
 
-The calculator will respond to user input and update its results without requiring a page refresh.
+AI-assisted coding was used during development, with a focus on defining the requirements, shaping the functionality, testing calculations and refining the user experience.
 
-It is intended as an educational and portfolio demonstration, not a substitute for a full fleet accounting or financial management system.
+### Future development
 
-## Project Status
-
-**Planned – Development to follow.**
+Additional fleet-management tools may be added as the portfolio expands.
 
