@@ -8,7 +8,7 @@ Beyond the core emergency assistance concept, the planned website was developed 
 
 The project involved business concept development, research, website planning and development, branding, creative design, digital content, search engine optimisation, online visibility and exploration of emerging AI-powered business discovery.
 
-Although the original website is no longer hosted and cannot be retrieved as a live website, this repository preserves the project history, supporting evidence and selected examples of the work completed.
+Although the original website is no longer hosted and cannot be retrieved as a live website, this repository preserves the project history, supporting evidence and examples of the work completed.
 
 The wider repository also contains separate interactive portfolio demonstrations inspired by practical business and operational requirements identified during the original project.
 
@@ -37,8 +37,6 @@ The intention was to develop a practical service concept around the challenges f
 
 The website was intended to provide more than information about the emergency assistance service. It was also developed as a useful resource for people involved in the heavy-vehicle, transport and fleet industry.
 
-The supporting content covered several areas.
-
 ### Health, Safety & Workplace Resources
 
 Research and information relating to health and safety in environments such as:
@@ -52,21 +50,15 @@ Research and information relating to health and safety in environments such as:
 
 ### Mechanical & Vehicle Information
 
-Informational content relating to:
-
-- Common heavy-vehicle mechanical faults
-- Vehicle breakdowns and possible causes
-- Mechanical problems and vehicle symptoms
-- Maintenance-related information
-- General vehicle and component information
+Informational content relating to common heavy-vehicle mechanical faults, vehicle breakdowns, possible causes, mechanical problems, vehicle symptoms and maintenance-related topics.
 
 ### Calculators & Practical Resources
 
-The website included and explored practical calculators and vehicle-related resources intended to help visitors work through relevant vehicle, mechanical and operational calculations.
+Vehicle-related and practical calculators intended to help visitors work through relevant mechanical, vehicle and operational calculations.
 
 ### Blog Articles & Informational Content
 
-The website also incorporated articles and general information covering mechanical faults, vehicle-related topics, industry information, safety and other subjects relevant to heavy-vehicle operators.
+Articles and general information covering mechanical faults, vehicle-related topics, industry information, safety and other subjects relevant to heavy-vehicle operators.
 
 These resources were intended to make the website useful to visitors beyond the emergency assistance service itself.
 
@@ -93,13 +85,79 @@ The work included:
 - Internal linking and website content structure
 - Search engine visibility and indexing research
 
-### Original Digital Presence Evidence
+### 3.1 Google Search & Original Website
 
-The following evidence gallery preserves examples of the original website and online presence work.
+The following screenshot records an example of GP Truck Aid appearing in Google search results.
 
-It includes Google search results, domain configuration, Google Search Console verification, sitemap and indexing screenshots, and Facebook business page content.
+![GP Truck Aid Google Search Result](digital-presence/google%20search%20result.png)
 
-**[View Original Digital Presence & Website Evidence](digital-presence/README.md)**
+### 3.2 Domain Setup & Google Verification
+
+Domain configuration and Google Search Console verification formed part of establishing and managing the original website's search presence.
+
+**Domain Setup**
+
+![GP Truck Aid Domain Setup](digital-presence/gpt%20domain%20setup_1.png)
+
+**Google Search Console DNS Verification**
+
+![Google Search Console DNS Verification](digital-presence/gpt%20search%20console%20dns%20verify.png)
+
+### 3.3 XML Sitemap & Website Indexing
+
+Google Search Console was used to submit the website sitemap and monitor Google's discovery and indexing of website pages.
+
+**XML Sitemap**
+
+![GP Truck Aid Sitemap](digital-presence/sitemap.png)
+
+**Page Indexing Report**
+
+![Google Search Console Page Indexing Report](digital-presence/page%20indexing%20search%20console.png)
+
+**Additional Page Indexing Information**
+
+![Google Search Console Additional Indexing Information](digital-presence/page%20indexing%20search%20console%202.png)
+
+### 3.4 Facebook Business Presence
+
+A Facebook business presence was developed to support the brand's online visibility and provide another channel for presenting the business concept, services and related content.
+
+The following screenshots preserve examples of the original Facebook page and its content.
+
+**Facebook Screenshot 1**
+
+![GP Truck Aid Facebook 1](digital-presence/gpt%20facebook_1.png)
+
+**Facebook Screenshot 2**
+
+![GP Truck Aid Facebook 2](digital-presence/gpt%20facebook_2.png)
+
+**Facebook Screenshot 3**
+
+![GP Truck Aid Facebook 3](digital-presence/gpt%20facebook_3.png)
+
+**Facebook Screenshot 4**
+
+![GP Truck Aid Facebook 4](digital-presence/gpt%20facebook_4.png)
+
+**Facebook Screenshot 5**
+
+![GP Truck Aid Facebook 5](digital-presence/gpt%20facebook_5.png)
+
+**Facebook Screenshot 6**
+
+![GP Truck Aid Facebook 6](digital-presence/gpt%20facebook_6.png)
+
+**Facebook Screenshot 7**
+
+![GP Truck Aid Facebook 7](digital-presence/gpt%20facebook_7.png)
+
+**Facebook Screenshot 8**
+
+![GP Truck Aid Facebook 8](digital-presence/gpt%20facebook_8.png)
+
+**[View the Digital Presence Evidence Guide](digital-presence/README.md)**
 
 ---
 
@@ -109,7 +167,7 @@ Search visibility was an important part of the original digital project.
 
 The work explored how a business website could be structured, presented and connected to other online sources to improve discoverability through traditional search engines and emerging AI-powered platforms.
 
-### Search Engine Optimisation (SEO)
+### 4.1 Search Engine Optimisation (SEO)
 
 Practical SEO-related work and research included:
 
@@ -123,13 +181,13 @@ Practical SEO-related work and research included:
 - Website structure and content organisation
 - Page titles and descriptions
 - Internal linking between relevant website pages
-- Research into keyword relevance and search intent
+- Keyword relevance and search intent research
 - Website content organisation for search discoverability
 - Online business directory research
-- Research into relevant external listings and backlink opportunities
+- Relevant external listing and backlink opportunities
 - Understanding the relationship between website content, links and search visibility
 
-### Backlink Research & Online Business Listings
+### 4.2 Backlink Research & Online Business Listings
 
 The project also involved researching ways to establish a wider online presence through relevant business directories and external references.
 
@@ -142,29 +200,27 @@ This included exploring:
 - The role of external references in online discoverability
 - Internal linking as part of website structure and navigation
 
-### Generative Engine Optimisation (GEO)
+### 4.3 Generative Engine Optimisation (GEO)
 
-The project also explored the emerging area of Generative Engine Optimisation (GEO).
+The project also explored Generative Engine Optimisation (GEO): how business information, website content and online references can be made clearer and more understandable to AI-powered systems.
 
-GEO considers how business information, website content and online references can be made clearer and more understandable to AI-powered systems.
-
-### AI Search Visibility & Business Discovery
+### 4.4 AI Search Visibility & ChatGPT Business Discovery
 
 Questions about GP Truck Aid were submitted to ChatGPT to observe how the platform interpreted and described the business.
 
-The resulting screenshots provide examples of AI-generated business descriptions and discovery at the time of testing.
+The following screenshots preserve the actual responses observed during those tests.
 
 **ChatGPT Query 1**
 
-![chat gpt query 1](../seo-and-search-visibility/chat%20gpt%20query%201.jpeg)
+![ChatGPT Query 1](seo-and-search-visibility/chat%20gpt%20query%201.jpeg)
 
 **ChatGPT Query 2**
 
-![chat gpt query 2](../seo-and-search-visibility/chat%20gpt%20query%202.jpg)
+![ChatGPT Query 2](seo-and-search-visibility/chat%20gpt%20query%202.jpg)
 
-**[View SEO, GEO & AI Search Visibility Evidence](../seo-and-search-visibility/README.md)**
+These examples document specific observed responses at the time of testing. They do not establish guaranteed or universal visibility across AI platforms.
 
-These examples document specific observed responses. They do not establish guaranteed or universal visibility across AI platforms.
+**[View the SEO, GEO & AI Search Visibility Evidence Guide](seo-and-search-visibility/README.md)**
 
 ---
 
