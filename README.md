@@ -156,7 +156,7 @@ The following cropped image was taken from the original website homepage. It sho
 
 “Best 24-hour emergency truck repairs and heavy vehicle towing across Gauteng.”
 
-![Original GP Truck Aid 24-hour towing and truck repair homepage](original-project/branding/24hr%20truck%20towing%20and%20truck%20repair%20near%20near%20me.jpeg)
+![Original GP Truck Aid 24-hour towing and truck repair homepage](original-project/branding/24hr%20truck%20towing%20and%20truck%20repair%20near%20me.jpeg)
 
 This image is retained as historical website content and illustrates the original service positioning.
 
@@ -293,7 +293,7 @@ The purpose was to explore the relationship between a business's online informat
 
 ### ChatGPT Query 1
 
-![ChatGPT Query 1 - GP Truck Aid](original-project/seo-and-search-visibility/chat%20gpt%20query%201.jpeg)
+![ChatGPT Query 1 - GP Truck Aid](original-project/seo-and-search-visibility/chat%20gpt%20query.jpg)
 
 ### ChatGPT Query 2
 
