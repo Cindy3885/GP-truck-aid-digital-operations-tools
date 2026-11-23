@@ -207,6 +207,12 @@ They are included directly in this README so that visitors can view the evidence
 
 ![GP Truck Aid Google Search Result](original-project/digital-presence/google%20search%20result.png)
 
+![GP Truck Aid Facebook 6](original-project/digital-presence/gpt%20facebook_6.png)
+
+![GP Truck Aid Facebook 7](original-project/digital-presence/gpt%20facebook_7.png)
+
+![GP Truck Aid Facebook 8](original-project/digital-presence/gpt%20facebook_8.png)
+
 ## Domain Setup
 
 ![GP Truck Aid Domain Setup](original-project/digital-presence/gpt%20domain%20setup_1.png)
@@ -252,18 +258,6 @@ The following eight screenshots preserve examples of the original Facebook conte
 ## Facebook Screenshot 5
 
 ![GP Truck Aid Facebook 5](original-project/digital-presence/gpt%20facebook_5.png)
-
-## Facebook Screenshot 6
-
-![GP Truck Aid Facebook 6](original-project/digital-presence/gpt%20facebook_6.png)
-
-## Facebook Screenshot 7
-
-![GP Truck Aid Facebook 7](original-project/digital-presence/gpt%20facebook_7.png)
-
-## Facebook Screenshot 8
-
-![GP Truck Aid Facebook 8](original-project/digital-presence/gpt%20facebook_8.png)
 
 ---
 
