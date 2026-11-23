@@ -1,473 +1,421 @@
-# GP Truck Aid – Original Business Concept & Digital Development Case Study
+# GP Truck Aid | Digital Business, Website Development & Interactive Tools
 
-GP Truck Aid was an independent heavy-vehicle emergency assistance business concept developed into a comprehensive digital business and website project.
+A practical digital project demonstrating how a business concept can be developed into an online presence, supported by research, branding, digital content, search visibility, and interactive web-based tools.
 
-The central business idea was to establish an emergency assistance dispatch service for heavy-vehicle drivers and operators requiring towing, mechanical repairs or vehicle recovery.
+This repository brings together the original GP Truck Aid business concept, its website and digital presence, historical evidence of its online visibility, and independently developed interactive portfolio demonstrations.
 
-Beyond the core emergency assistance concept, the planned website was developed as a broader information and resource platform for the heavy-vehicle, transport and fleet industry. It included practical calculators, mechanical information, blog articles, vehicle-related resources and health and safety information relevant to fleet operations, depots, warehouses and workplace environments.
-
-The project involved business concept development, research, website planning and development, branding, creative design, digital content, search engine optimisation, online visibility and exploration of emerging AI-powered business discovery.
-
-Although the original website is no longer hosted and cannot be retrieved as a live website, this repository preserves the project history, supporting evidence and examples of the work completed.
-
-The wider repository also contains separate interactive portfolio demonstrations inspired by practical business and operational requirements identified during the original project.
+The project combines business understanding, practical problem-solving, creative work, digital research and hands-on website development.
 
 ---
 
-## 1. Original Business Concept – Heavy-Vehicle Emergency Assistance
+# 1. Project Overview
 
-The central idea behind GP Truck Aid was to provide a point of contact for heavy-vehicle emergency assistance.
+GP Truck Aid began as a concept for a heavy-vehicle emergency assistance and service coordination business.
 
-The proposed service was intended to help drivers and operators access appropriate assistance when a heavy vehicle experienced a breakdown, mechanical problem or roadside emergency.
+The idea was to create an accessible service connecting truck and bus drivers, vehicle operators and businesses with relevant assistance providers when heavy vehicles experienced breakdowns or required recovery, towing or mechanical repairs.
 
-The concept focused on:
+The project developed beyond the initial service concept into a broader digital business presence, with a website intended to provide useful information and practical resources for people working in the commercial vehicle and fleet environment.
 
-- Emergency towing assistance
-- Heavy-vehicle mechanical repair assistance
-- Vehicle recovery services
-- Dispatch and coordination of assistance
-- Connecting drivers and operators with relevant service providers
-- Helping heavy-vehicle operators find assistance when and where it was needed
+The work involved several connected areas:
 
-The intention was to develop a practical service concept around the challenges faced by commercial vehicle operators when vehicles become disabled or require urgent attention.
+- Developing and refining the business concept.
+- Identifying the needs of the intended audience.
+- Planning the website and its content.
+- Creating branding and visual identity.
+- Developing website pages and digital content.
+- Researching search visibility and online discoverability.
+- Establishing a business presence on Facebook.
+- Working with domain configuration and DNS verification.
+- Creating and submitting an XML sitemap.
+- Using Google Search Console to monitor indexing.
+- Researching SEO, online visibility and backlinks.
+- Exploring how AI assistants could discover and describe a business.
+- Developing interactive web-based tools as portfolio demonstrations.
 
----
-
-## 2. Website Resources & Industry Information
-
-The website was intended to provide more than information about the emergency assistance service. It was also developed as a useful resource for people involved in the heavy-vehicle, transport and fleet industry.
-
-### Health, Safety & Workplace Resources
-
-Research and information relating to health and safety in environments such as:
-
-- Fleet and transport operations
-- Vehicle depots and logistics facilities
-- Warehouses and distribution environments
-- Workshops and vehicle maintenance areas
-- Occupational health and safety in the transport industry
-- General workplace safety and operational awareness
-
-### Mechanical & Vehicle Information
-
-Informational content relating to common heavy-vehicle mechanical faults, vehicle breakdowns, possible causes, mechanical problems, vehicle symptoms and maintenance-related topics.
-
-### Calculators & Practical Resources
-
-Vehicle-related and practical calculators intended to help visitors work through relevant mechanical, vehicle and operational calculations.
-
-### Blog Articles & Informational Content
-
-Articles and general information covering mechanical faults, vehicle-related topics, industry information, safety and other subjects relevant to heavy-vehicle operators.
-
-These resources were intended to make the website useful to visitors beyond the emergency assistance service itself.
+**Project distinction:** The original GP Truck Aid business concept and website are historical project work. The interactive calculator featured below is a separate portfolio demonstration inspired by the commercial vehicle and fleet industry. It is not presented as a currently operating GP Truck Aid service.
 
 ---
 
-## 3. Original Website & Digital Presence
+# 2. The Original Business Concept
 
-Developing the online presence involved several connected activities, from planning the website structure and creating content to establishing the domain, developing the visual identity and researching ways to improve online discoverability.
+## Heavy-Vehicle Emergency Assistance
 
-The work included:
+The original business concept focused on helping truck and bus drivers and operators find assistance when a vehicle experienced a problem on the road or required support.
 
-- Website concept, planning and structure
-- Website page development and content organisation
-- Website layout and visual presentation
-- Business descriptions and service information
-- Branding and logo concept development
-- Digital graphics and visual content
-- Domain registration and configuration
-- DNS management and verification
-- Website setup and management
-- Facebook business page development
-- Online business directory research
-- Research into business listings and backlink opportunities
-- Internal linking and website content structure
-- Search engine visibility and indexing research
+The proposed service included:
 
-### 3.1 Google Search & Original Website
+- Emergency breakdown assistance.
+- Towing and vehicle recovery coordination.
+- Mechanical repair assistance.
+- Connecting vehicle operators with relevant service providers.
+- Helping drivers and businesses find assistance when a heavy vehicle could not continue its journey.
 
-The following screenshot records an example of GP Truck Aid appearing in Google search results.
+The concept was based on a practical understanding of the challenges faced by commercial vehicle operators and the importance of minimising vehicle downtime.
 
-![GP Truck Aid Google Search Result](digital-presence/google%20search%20result.png)
+## Broader Website Purpose
 
-### 3.2 Domain Setup & Google Verification
+The website was also intended to be a useful information resource, rather than simply a page advertising an emergency service.
 
-Domain configuration and Google Search Console verification formed part of establishing and managing the original website's search presence.
+Its wider subject matter included:
 
-**Domain Setup**
+- Fleet and commercial vehicle information.
+- Vehicle and mechanical faults.
+- General mechanical information and educational articles.
+- Health and Safety information relevant to fleet operations.
+- Information relevant to depots, warehouses and workshops.
+- Practical resources for drivers and vehicle operators.
+- Calculators and useful tools.
+- Blog articles and general industry information.
 
-![GP Truck Aid Domain Setup](digital-presence/gpt%20domain%20setup_1.png)
-
-**Google Search Console DNS Verification**
-
-![Google Search Console DNS Verification](digital-presence/gpt%20search%20console%20dns%20verify.png)
-
-### 3.3 XML Sitemap & Website Indexing
-
-Google Search Console was used to submit the website sitemap and monitor Google's discovery and indexing of website pages.
-
-**XML Sitemap**
-
-![GP Truck Aid Sitemap](digital-presence/sitemap.png)
-
-**Page Indexing Report**
-
-![Google Search Console Page Indexing Report](digital-presence/page%20indexing%20search%20console.png)
-
-**Additional Page Indexing Information**
-
-![Google Search Console Additional Indexing Information](digital-presence/page%20indexing%20search%20console%202.png)
-
-### 3.4 Facebook Business Presence
-
-A Facebook business presence was developed to support the brand's online visibility and provide another channel for presenting the business concept, services and related content.
-
-The following screenshots preserve examples of the original Facebook page and its content.
-
-**Facebook Screenshot 1**
-
-![GP Truck Aid Facebook 1](digital-presence/gpt%20facebook_1.png)
-
-**Facebook Screenshot 2**
-
-![GP Truck Aid Facebook 2](digital-presence/gpt%20facebook_2.png)
-
-**Facebook Screenshot 3**
-
-![GP Truck Aid Facebook 3](digital-presence/gpt%20facebook_3.png)
-
-**Facebook Screenshot 4**
-
-![GP Truck Aid Facebook 4](digital-presence/gpt%20facebook_4.png)
-
-**Facebook Screenshot 5**
-
-![GP Truck Aid Facebook 5](digital-presence/gpt%20facebook_5.png)
-
-**Facebook Screenshot 6**
-
-![GP Truck Aid Facebook 6](digital-presence/gpt%20facebook_6.png)
-
-**Facebook Screenshot 7**
-
-![GP Truck Aid Facebook 7](digital-presence/gpt%20facebook_7.png)
-
-**Facebook Screenshot 8**
-
-![GP Truck Aid Facebook 8](digital-presence/gpt%20facebook_8.png)
-
-**[View the Digital Presence Evidence Guide](digital-presence/README.md)**
+The broader content approach was intended to give visitors useful reasons to explore the website, while building an online presence around the needs of the heavy-vehicle industry.
 
 ---
 
-## 4. SEO, GEO & AI Search Visibility
+# 3. Website, Branding & Creative Development
 
-Search visibility was an important part of the original digital project.
+The project involved developing the business identity and its online presentation.
 
-The work explored how a business website could be structured, presented and connected to other online sources to improve discoverability through traditional search engines and emerging AI-powered platforms.
+This included thinking about how the business should communicate its purpose, how visitors would understand its services, and how information should be organised across the website.
 
-### 4.1 Search Engine Optimisation (SEO)
+Areas of work included:
 
-Practical SEO-related work and research included:
+- Business identity and brand direction.
+- Logo and visual identity development.
+- Website structure and page planning.
+- Website content and descriptions.
+- Service and information presentation.
+- Visual consistency and layout.
+- Creative graphics and digital content.
+- Using Canva for design and visual communication.
+- Using AI-assisted tools for research, ideas and creative development.
 
-- Google Search Console setup and verification
-- Domain ownership verification
-- DNS verification
-- XML sitemap creation and submission
-- Website indexing monitoring
-- Review of indexed and non-indexed pages
-- Search result monitoring
-- Website structure and content organisation
-- Page titles and descriptions
-- Internal linking between relevant website pages
-- Keyword relevance and search intent research
-- Website content organisation for search discoverability
-- Online business directory research
-- Relevant external listing and backlink opportunities
-- Understanding the relationship between website content, links and search visibility
-
-### 4.2 Backlink Research & Online Business Listings
-
-The project also involved researching ways to establish a wider online presence through relevant business directories and external references.
-
-This included exploring:
-
-- Relevant online business directories
-- Business listing opportunities
-- Consistent business information across online platforms
-- Potential backlink sources
-- The role of external references in online discoverability
-- Internal linking as part of website structure and navigation
-
-### 4.3 Generative Engine Optimisation (GEO)
-
-The project also explored Generative Engine Optimisation (GEO): how business information, website content and online references can be made clearer and more understandable to AI-powered systems.
-
-### 4.4 AI Search Visibility & ChatGPT Business Discovery
-
-Questions about GP Truck Aid were submitted to ChatGPT to observe how the platform interpreted and described the business.
-
-The following screenshots preserve the actual responses observed during those tests.
-
-**ChatGPT Query 1**
-
-![ChatGPT Query 1](seo-and-search-visibility/chat%20gpt%20query%201.jpeg)
-
-**ChatGPT Query 2**
-
-![ChatGPT Query 2](seo-and-search-visibility/chat%20gpt%20query%202.jpg)
-
-These examples document specific observed responses at the time of testing. They do not establish guaranteed or universal visibility across AI platforms.
-
-**[View the SEO, GEO & AI Search Visibility Evidence Guide](seo-and-search-visibility/README.md)**
+The intention was to create a recognisable, approachable business presence that communicated the purpose of the service clearly.
 
 ---
 
-## 5. Interactive Portfolio Development
+# 4. Original Digital Presence & Website Evidence
 
-The original GP Truck Aid website concept included calculators and practical resources intended to provide useful information to heavy-vehicle operators.
+The following screenshots document parts of the original project's digital presence and website work.
 
-The wider repository now contains separately developed interactive portfolio demonstrations inspired by practical business and operational requirements.
+They are included directly in this main README so that visitors can review the evidence without navigating into separate folders.
 
-### Fleet Management – Fuel & Trip Profitability Calculator
+## Google Search Visibility
 
-**Status: Live**
+Evidence of the original GP Truck Aid website appearing in Google search results.
 
-An independently developed browser-based calculator demonstrating how a practical transport-related requirement can be translated into a working digital tool.
+![GP Truck Aid Google Search Result](original-project/digital-presence/google%20search%20result.png)
 
-The calculator uses HTML, CSS and JavaScript to allow users to enter trip information and calculate:
+## Domain Setup
 
-- Estimated fuel requirements
-- Fuel costs
-- Additional trip expenses
-- Total trip expenses
-- Estimated trip profit or loss
-- Operating cost per kilometre
+Evidence relating to the original domain setup.
 
-It includes input validation, calculation logic, result presentation and South African Rand formatting.
+![GP Truck Aid Domain Setup](original-project/digital-presence/gpt%20domain%20setup_1.png)
 
-**[Open the Live Fuel & Trip Profitability Calculator](../fleet-management/)**
+## Google Search Console – DNS Verification
 
-This is a separate portfolio development project, not a representation that the original GP Truck Aid business or website is still operating.
+Evidence of domain ownership verification through Google Search Console.
 
----
+![Google Search Console DNS Verification](original-project/digital-presence/gpt%20search%20console%20dns%20verify.png)
 
-## 6. Technology, Platforms & Tools
+## XML Sitemap
 
-The original business project and subsequent portfolio demonstrations involved researching, learning and working with a range of digital platforms and technologies.
+Evidence of the website sitemap.
 
-### Website Development & Publishing
+![GP Truck Aid XML Sitemap](original-project/digital-presence/sitemap.png)
 
-- **HTML** – Structuring website pages and content
-- **CSS** – Styling, layout and visual presentation
-- **JavaScript** – Interactive functionality and calculator logic
-- **GitHub** – Repository management, file organisation and version control
-- **GitHub Pages** – Publishing and hosting interactive portfolio demonstrations
-- **GitHub Markdown** – Project documentation, structured content and embedded images
+## Google Search Console – Page Indexing
 
-### Design & Creative Tools
+Screenshots documenting the website's indexing information in Google Search Console.
 
-- **Canva** – Branding, graphics, digital content and visual presentation
-- Logo and visual identity concept development
-- Graphic layout and composition
-- Digital imagery and promotional content
-- Website visual direction
-- AI-assisted image and visual content exploration
+![Google Search Console Page Indexing](original-project/digital-presence/page%20indexing%20search%20console.png)
 
-### SEO, Search & Digital Discoverability
+![Google Search Console Page Indexing – Additional View](original-project/digital-presence/page%20indexing%20search%20console%202.png)
 
-- **Google Search Console** – Website verification, sitemap submission and indexing monitoring
-- **XML sitemaps** – Helping search engines discover website pages
-- **Domain management** – Domain configuration and administration
-- **DNS management** – Domain verification and website configuration
-- Search result and indexing research
-- Online business directories
-- Backlink research
-- Internal linking and website content structure
+## Facebook Business Presence
 
-### Digital Presence & Communication
+The following eight screenshots document the original GP Truck Aid Facebook presence and its business-related content.
 
-- Facebook business page development
-- Online business information and listings
-- Website content and service descriptions
-- Digital brand presentation
-- Online business visibility research
+![GP Truck Aid Facebook Screenshot 1](original-project/digital-presence/gpt%20facebook_1.png)
 
-### AI & Digital Research
+![GP Truck Aid Facebook Screenshot 2](original-project/digital-presence/gpt%20facebook_2.png)
 
-- **ChatGPT** – Research, content development, problem-solving, coding assistance and refinement
-- **Microsoft Copilot** – AI-powered research and business discovery exploration
-- AI-assisted website and content development
-- AI-assisted coding and debugging
-- Researching unfamiliar tools and technologies
-- Testing, reviewing and refining digital solutions
+![GP Truck Aid Facebook Screenshot 3](original-project/digital-presence/gpt%20facebook_3.png)
+
+![GP Truck Aid Facebook Screenshot 4](original-project/digital-presence/gpt%20facebook_4.png)
+
+![GP Truck Aid Facebook Screenshot 5](original-project/digital-presence/gpt%20facebook_5.png)
+
+![GP Truck Aid Facebook Screenshot 6](original-project/digital-presence/gpt%20facebook_6.png)
+
+![GP Truck Aid Facebook Screenshot 7](original-project/digital-presence/gpt%20facebook_7.png)
+
+![GP Truck Aid Facebook Screenshot 8](original-project/digital-presence/gpt%20facebook_8.png)
 
 ---
 
-## 7. Skills Demonstrated
+# 5. SEO, Search Visibility & Generative AI Visibility
 
-The project demonstrates practical capabilities across business development, operations, website development, creative work, digital marketing, search visibility, interactive development and project organisation.
+An important part of the project involved exploring how a small business website could become discoverable online.
 
-These skills reflect hands-on work, research, experimentation, practical implementation and AI-assisted learning and development.
+This included traditional search visibility as well as the emerging role of AI-powered search and conversational assistants.
 
-### 7.1 Business & Operational Skills
+## Search Engine Optimisation (SEO)
 
-- Business concept development
-- Business research and planning
-- Understanding business requirements
-- Identifying customer and operational needs
-- Service concept development
-- Researching industry-specific requirements
-- Identifying practical problems and potential solutions
-- Understanding the needs of heavy-vehicle operators
-- Organising business information and resources
-- Developing information structures around a business offering
-- Translating business ideas into practical digital concepts
-- Operational thinking and problem-solving
+Practical areas explored included:
 
-### 7.2 Website & Digital Presence Skills
+- Search intent and keyword research.
+- Website content and page relevance.
+- Search engine indexing.
+- Google Search Console.
+- XML sitemap creation and submission.
+- Domain ownership and DNS verification.
+- Internal linking.
+- Website structure and navigation.
+- Online directory research.
+- Backlink opportunities and research.
+- Improving the discoverability of website content.
 
-- Website planning and development
-- Website structure and page organisation
-- Website content creation and editing
-- Website layout and presentation
-- Business and service descriptions
-- Digital content organisation
-- Website navigation and internal linking
-- Domain registration and management
-- DNS configuration and verification
-- Website publishing and management
-- Online business presence development
-- Digital information management
-- GitHub repository organisation
-- GitHub Pages publishing
+## Generative Engine Optimisation (GEO)
 
-### 7.3 Design & Creative Skills
+The project also explored whether an AI assistant could identify and describe GP Truck Aid when asked about the business.
 
-- Brand concept development
-- Logo concept creation
-- Visual identity exploration
-- Graphic design using Canva
-- Digital graphics and promotional content
-- Website visual direction
-- Layout and composition
-- Visual communication
-- Digital content presentation
-- AI-assisted image and visual content exploration
-- Developing consistent visual presentation across digital platforms
+This provided an opportunity to investigate how online information may be discovered, interpreted and presented by generative AI systems.
 
-### 7.4 SEO, GEO & Digital Discoverability Skills
+The following screenshots document two separate ChatGPT queries made while logged out.
 
-- SEO fundamentals and practical application
-- Google Search Console setup and verification
-- XML sitemap creation and submission
-- Website indexing monitoring
-- Search visibility research
-- Search result analysis
-- Website content structure
-- Page title and description considerations
-- Keyword and search intent research
-- Internal linking
-- Online business directory research
-- Backlink opportunity research
-- Online business information consistency
-- Understanding website discoverability
-- GEO fundamentals and exploration
-- AI search visibility research
-- Exploring how AI platforms interpret and describe business information
-- Understanding the relationship between website content, external references and digital visibility
+### ChatGPT Query 1
 
-### 7.5 Interactive Tools & Digital Development Skills
+![ChatGPT GP Truck Aid Query 1](original-project/seo-and-search-visibility/chat%20gpt%20query%201.jpeg)
 
-- Identifying practical requirements for digital tools
-- Planning calculator functionality
-- Translating business and operational requirements into digital features
-- HTML page structure
-- CSS styling and layout
-- JavaScript programming
-- Writing and refining calculation logic
-- Working with numerical inputs and outputs
-- Developing interactive browser-based calculators
-- Input validation and error handling
-- Formatting and presenting calculation results
-- Testing calculator functionality
-- Checking calculation accuracy
-- Reviewing user experience and usability
-- Debugging and refining code
-- Publishing functional tools using GitHub Pages
-- Documenting interactive projects
+### ChatGPT Query 2
 
-### 7.6 AI-Assisted Research & Development Skills
+![ChatGPT GP Truck Aid Query 2](original-project/seo-and-search-visibility/chat%20gpt%20query%202.jpg)
 
-- Using ChatGPT for research and problem-solving
-- Using Microsoft Copilot for research and information exploration
-- AI-assisted content development
-- AI-assisted coding
-- Understanding and refining code with AI assistance
-- Identifying and correcting errors
-- Testing and improving functionality
-- Researching unfamiliar platforms and technologies
-- Comparing possible approaches and solutions
-- Using AI to support practical learning and implementation
-- Reviewing AI-generated outputs rather than relying on them without checking
-- Applying AI assistance to real project requirements
-
-### 7.7 Project Management & Digital Workflow Skills
-
-- Project planning and organisation
-- Breaking larger ideas into manageable tasks
-- Organising project files and resources
-- Maintaining structured repository folders
-- Creating project documentation
-- Recording historical project evidence
-- Managing GitHub commits and changes
-- Version control fundamentals
-- Publishing and maintaining project updates
-- Testing changes before considering work complete
-- Connecting related project components
-- Documenting tools and their functionality
-- Researching and resolving development challenges
-- Learning through practical implementation
-- Working through a project from concept to documented output
+These screenshots are historical evidence of the responses received at the time of testing. They are not a guarantee of current search rankings or permanent AI visibility.
 
 ---
 
-## 8. Project History & Status
+# 6. Interactive Portfolio Demonstration
 
-### Original GP Truck Aid Business Project
+## GP Truck Aid – Fuel & Trip Profitability Calculator
 
-**Status: Completed – Historical Project**
+< LIVE DEMO >
 
-The original GP Truck Aid project was developed around a heavy-vehicle emergency assistance dispatch service, supported by a broader website containing practical industry resources, calculators, mechanical information, blog articles and health and safety content.
+**[OPEN THE WORKING FUEL & TRIP PROFITABILITY CALCULATOR](https://cindy3885.github.io/GP-truck-aid-digital-operations-tools/fleet-management/)**
 
-The original website is no longer hosted on its previous hosting platform and cannot be accessed as a live website.
+This is a separate, functional portfolio demonstration inspired by the commercial vehicle and fleet industry.
 
-Historical screenshots, research and supporting documentation are preserved in this repository as evidence of the work completed.
+Unlike a static website mock-up, this tool has working calculations and interactive inputs. It demonstrates the practical application of HTML, CSS and JavaScript to a business-related problem.
 
-### Separate Interactive Portfolio Development
+### What the calculator does
 
-**Status: Ongoing Portfolio Development**
+Users can enter trip and vehicle information to estimate:
 
-The interactive tools in the wider repository are independent portfolio demonstrations inspired by practical requirements identified during the original project.
+- Distance travelled.
+- Vehicle fuel consumption.
+- Fuel required for the trip.
+- Fuel price per litre.
+- Estimated fuel cost.
+- Additional trip expenses.
+- Total trip expenses.
+- Expected trip revenue.
+- Estimated profit or loss.
+- Estimated cost per kilometre.
 
-The Fuel & Trip Profitability Calculator is live and available to use. Further tools and digital projects may be added as separate portfolio developments.
+The calculator presents the results in South African Rand (ZAR).
+
+### Development features
+
+- Interactive input fields.
+- JavaScript calculation logic.
+- Input validation.
+- Error handling.
+- Automatic result calculations.
+- Currency formatting.
+- Responsive page styling.
+- Separate HTML, CSS and JavaScript files.
+- Published using GitHub Pages.
+
+### Example calculation
+
+The following example illustrates the type of calculation the tool performs.
+
+| Input | Example |
+|---|---:|
+| Trip distance | 450 km |
+| Fuel consumption | 32 L / 100 km |
+| Fuel price | R23.50 / litre |
+| Additional expenses | R1,200 |
+| Expected revenue | R8,500 |
+| Estimated fuel required | 144 litres |
+| Estimated fuel cost | R3,384 |
+| Total expenses | R4,584 |
+| Estimated profit | R3,916 |
+| Cost per kilometre | R10.19 |
+
+*Example figures are for demonstration purposes.*
+
+**Try the calculator:**  
+[Launch the live Fuel & Trip Profitability Calculator](https://cindy3885.github.io/GP-truck-aid-digital-operations-tools/fleet-management/)
+
+This calculator is an independent portfolio development project. It is not represented as a feature of the original historical GP Truck Aid website.
 
 ---
 
-## 9. Important Notes
+# 7. Skills Demonstrated
 
-- GP Truck Aid was an original heavy-vehicle emergency assistance business concept.
-- The proposed core service centred on towing, mechanical repair assistance and vehicle recovery dispatch.
-- The website also included supporting industry resources, calculators, mechanical information, articles and health and safety content.
-- The original business project is completed and is documented here as historical work.
-- The original website is no longer hosted and is not presented as a live website.
-- Historical screenshots and documentation are retained as supporting evidence.
-- Interactive tools in this repository are separate portfolio demonstrations.
-- AI-assisted tools supported research, content development, coding, testing and refinement.
-- Skills and technologies are presented as practical work and developing capabilities, not as claims of expert-level proficiency.
+This project brings together practical business, creative and digital skills. It demonstrates the ability to understand a business requirement, research possible solutions, work with unfamiliar tools and develop practical digital outputs.
+
+## Business & Operational Skills
+
+- Business concept development.
+- Understanding business needs and objectives.
+- Identifying customer and industry requirements.
+- Researching practical business solutions.
+- Service and information planning.
+- Organising business information.
+- Understanding operational challenges in the commercial vehicle environment.
+- Translating business ideas into digital resources.
+- Practical problem-solving.
+- Independent research and learning.
+
+## Website & Digital Development
+
+- Website planning and structure.
+- Website page development.
+- HTML.
+- CSS.
+- JavaScript.
+- Working with separate website files.
+- Basic front-end development.
+- Interactive web functionality.
+- Building and testing calculator logic.
+- Input validation and error handling.
+- Responsive layout considerations.
+- Website publishing using GitHub Pages.
+
+## Design & Creative Skills
+
+- Canva.
+- Brand and visual identity development.
+- Logo and graphic design.
+- Visual communication.
+- Website content presentation.
+- Creative concept development.
+- Digital content planning.
+- AI-assisted creative research and development.
+
+## Digital Presence & Online Discoverability
+
+- Google Search Console.
+- Domain setup and configuration.
+- DNS verification.
+- XML sitemap creation.
+- Search engine indexing.
+- Search visibility research.
+- Keyword and search intent research.
+- Website content organisation.
+- Internal linking.
+- Facebook business presence.
+- Online directory research.
+- Backlink research and opportunities.
+- SEO fundamentals.
+- Generative Engine Optimisation (GEO) exploration.
+- AI search visibility testing.
+
+## Interactive Tools & Practical Development
+
+- Identifying a practical business problem.
+- Planning a useful digital tool.
+- Translating requirements into calculator inputs and outputs.
+- HTML form and input development.
+- JavaScript calculations.
+- Fuel and trip cost calculations.
+- Profit and loss estimates.
+- Cost-per-kilometre calculations.
+- Data validation.
+- Error handling.
+- Testing and debugging.
+- Improving usability and presentation.
+
+## AI-Assisted Research & Development
+
+- ChatGPT.
+- Microsoft Copilot.
+- AI-assisted research.
+- Exploring unfamiliar technologies.
+- Developing and refining ideas.
+- Assistance with code development.
+- Reviewing and testing functionality.
+- Troubleshooting and debugging.
+- Improving written content.
+- Using AI as a practical learning and development resource.
+
+## Project & Digital Workflow Skills
+
+- GitHub repository management.
+- GitHub Pages publishing.
+- File and folder organisation.
+- Markdown documentation.
+- Version control through commits.
+- Maintaining project documentation.
+- Organising digital evidence.
+- Testing and refining work.
+- Independent learning.
+- Researching and adapting to new platforms.
+- Taking a project from an initial idea through to a practical demonstration.
 
 ---
 
-**GP Truck Aid – A completed heavy-vehicle emergency assistance business concept and digital development case study.**
+# 8. Tools & Technologies
+
+| Area | Tools and Technologies |
+|---|---|
+| Website development | HTML, CSS, JavaScript |
+| Repository and publishing | GitHub, GitHub Pages |
+| Documentation | Markdown |
+| Creative design | Canva |
+| Search visibility | Google Search Console |
+| Website discoverability | XML sitemaps, domain and DNS configuration |
+| Social presence | Facebook |
+| AI-assisted research | ChatGPT, Microsoft Copilot |
+| Interactive development | JavaScript, browser-based testing |
+
+---
+
+# 9. What This Project Demonstrates
+
+The value of this project is not limited to the finished website or calculator.
+
+It demonstrates a practical approach to digital work:
+
+1. Understand the business idea and the people it is intended to serve.
+2. Research the requirements and identify useful solutions.
+3. Plan the website, content and online presence.
+4. Develop the brand and visual presentation.
+5. Work with digital platforms and tools to establish an online presence.
+6. Investigate search engine and AI discoverability.
+7. Develop practical interactive resources.
+8. Test, troubleshoot and refine the results.
+9. Document the work and make it accessible through GitHub.
+
+It also demonstrates the ability to learn by doing, research unfamiliar systems and use available technology to turn ideas into practical outcomes.
+
+---
+
+# 10. Project Status & Portfolio Scope
+
+The original GP Truck Aid business concept and website are historical project work. The original website is no longer presented as a live operating business.
+
+The original branding, digital presence and search visibility evidence are retained here as part of the project history.
+
+The Fuel & Trip Profitability Calculator is a separate, working portfolio demonstration published through GitHub Pages.
+
+This repository serves as a developing portfolio of practical digital projects, business-focused tools, website development, creative work and AI-assisted problem-solving.
+
+---
+
+**Portfolio project:** GP Truck Aid – Digital Business & Interactive Tools  
+**Repository:** [GitHub – GP Truck Aid Digital Operations Tools](https://github.com/cindy3885/GP-truck-aid-digital-operations-tools)  
+**Live interactive demonstration:** [Fuel & Trip Profitability Calculator](https://cindy3885.github.io/GP-truck-aid-digital-operations-tools/fleet-management/)
 
