@@ -8,6 +8,56 @@ The project brings together business understanding, creative development, online
 
 ---
 
+
+# 1. The Original GP Truck Aid Business Concept
+
+## 24-Hour Heavy-Vehicle Emergency Assistance & Dispatch
+
+GP Truck Aid was originally developed as a concept for a **24-hour heavy-vehicle emergency assistance dispatch and coordination service across Gauteng, South Africa**.
+
+The main purpose was to help truck and bus drivers, fleet operators and businesses find assistance when a commercial vehicle experienced a breakdown or required urgent support.
+
+The concept centred on connecting people who needed assistance with appropriate service providers.
+
+The intended services included:
+
+- 24-hour heavy-vehicle breakdown assistance.
+- Emergency truck towing.
+- Heavy-vehicle recovery.
+- Mechanical repair assistance.
+- Coordination and dispatch of relevant service providers.
+- Helping drivers and operators find assistance when a vehicle could not continue its journey.
+- Providing access to relevant support for commercial vehicles operating across Gauteng.
+
+The central idea was to make it easier for drivers and operators to find the right assistance when a heavy vehicle broke down, helping them deal with vehicle downtime and the practical challenges of getting back on the road.
+
+## The Website Was More Than an Emergency Service Advertisement
+
+Although emergency assistance and dispatch were the main purpose of GP Truck Aid, the website was also intended to provide useful information, resources and practical tools for people working in the commercial vehicle and fleet environment.
+
+The wider website content included:
+
+- Health and Safety information relevant to fleet operations.
+- Resources for depots, warehouses and workshops.
+- General fleet and commercial vehicle information.
+- Information about common mechanical faults.
+- Educational articles about vehicle problems and maintenance-related topics.
+- Blog articles and general industry information.
+- Practical calculators and useful tools.
+- Additional information intended to help drivers, operators and businesses.
+
+The aim was to develop a useful online resource around the heavy-vehicle industry, while keeping emergency assistance and service coordination at the centre of the business concept.
+
+## Original Website Status
+
+The original GP Truck Aid website is no longer live, and its original live version cannot be retrieved.
+
+The screenshots and supporting material included in this repository are historical evidence of the original website, branding, online presence and search visibility work.
+
+This repository preserves that project history and separately showcases new interactive portfolio development.
+
+---
+
 # 1. Interactive Portfolio Demonstration
 
 ## Fuel & Trip Profitability Calculator
@@ -67,55 +117,6 @@ The calculator displays financial results in South African Rand (ZAR).
 **[TRY THE WORKING CALCULATOR](https://cindy3885.github.io/GP-truck-aid-digital-operations-tools/fleet-management/)**
 
 **Important:** This calculator is a separate portfolio development project. It is not presented as a working feature of the original GP Truck Aid website or as a currently operating business service.
-
----
-
-# 2. The Original GP Truck Aid Business Concept
-
-## 24-Hour Heavy-Vehicle Emergency Assistance & Dispatch
-
-GP Truck Aid was originally developed as a concept for a **24-hour heavy-vehicle emergency assistance dispatch and coordination service across Gauteng, South Africa**.
-
-The main purpose was to help truck and bus drivers, fleet operators and businesses find assistance when a commercial vehicle experienced a breakdown or required urgent support.
-
-The concept centred on connecting people who needed assistance with appropriate service providers.
-
-The intended services included:
-
-- 24-hour heavy-vehicle breakdown assistance.
-- Emergency truck towing.
-- Heavy-vehicle recovery.
-- Mechanical repair assistance.
-- Coordination and dispatch of relevant service providers.
-- Helping drivers and operators find assistance when a vehicle could not continue its journey.
-- Providing access to relevant support for commercial vehicles operating across Gauteng.
-
-The central idea was to make it easier for drivers and operators to find the right assistance when a heavy vehicle broke down, helping them deal with vehicle downtime and the practical challenges of getting back on the road.
-
-## The Website Was More Than an Emergency Service Advertisement
-
-Although emergency assistance and dispatch were the main purpose of GP Truck Aid, the website was also intended to provide useful information, resources and practical tools for people working in the commercial vehicle and fleet environment.
-
-The wider website content included:
-
-- Health and Safety information relevant to fleet operations.
-- Resources for depots, warehouses and workshops.
-- General fleet and commercial vehicle information.
-- Information about common mechanical faults.
-- Educational articles about vehicle problems and maintenance-related topics.
-- Blog articles and general industry information.
-- Practical calculators and useful tools.
-- Additional information intended to help drivers, operators and businesses.
-
-The aim was to develop a useful online resource around the heavy-vehicle industry, while keeping emergency assistance and service coordination at the centre of the business concept.
-
-## Original Website Status
-
-The original GP Truck Aid website is no longer live, and its original live version cannot be retrieved.
-
-The screenshots and supporting material included in this repository are historical evidence of the original website, branding, online presence and search visibility work.
-
-This repository preserves that project history and separately showcases new interactive portfolio development.
 
 ---
 
