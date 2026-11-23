@@ -1,86 +1,104 @@
-# GP Truck Aid | SEO & Search Visibility
+# GP Truck Aid – Original Digital Presence
 
-## Overview
+This section documents the digital presence developed for the original GP Truck Aid business project.
 
-The GP Truck Aid project included search engine optimisation and technical website setup activities aimed at improving the website's discoverability and helping search engines understand its content and structure.
+The work included website development, domain configuration, Google Search Console setup, sitemap submission, search indexing research and Facebook business page development.
 
-The work included domain configuration, DNS verification, sitemap submission, search indexing monitoring and reviewing website visibility through Google Search Console.
+The original website is no longer hosted and is not available as a live website. The screenshots below preserve examples of the digital work and online presence established during the project.
 
-## Domain & DNS Configuration
+---
 
-The project involved configuring the GP Truck Aid domain and working with DNS records to establish website ownership and connect the domain to the relevant services.
+## 1. Original Website & Google Search Presence
 
-Google Search Console ownership was verified using a DNS TXT record.
+The original website provided the online presence for the GP Truck Aid business concept.
 
-Historical screenshots of the domain setup and DNS verification process are retained as project evidence.
+The following screenshot records an example of the business appearing in Google search results.
 
-## Google Search Console
+### Google Search Result
 
-Google Search Console was used to monitor the website's search presence and technical indexing information.
+![GP Truck Aid Google Search Result](google%20search%20result.png)
 
-The project included:
+---
 
-- Verifying domain ownership.
-- Accessing Google Search Console.
-- Submitting the website sitemap.
-- Monitoring sitemap processing.
-- Reviewing indexed and non-indexed pages.
-- Reviewing available crawl and indexing information.
-- Monitoring search visibility.
+## 2. Domain Setup & Verification
 
-## Sitemap Submission & Discovery
+Setting up the online presence involved domain configuration and DNS verification to connect the website with Google's services.
 
-The original website sitemap was submitted to Google Search Console.
+### Domain Setup
 
-Historical Search Console evidence showed:
+![GP Truck Aid Domain Setup](gpt%20domain%20setup_1.png)
 
-- Sitemap: `https://gptruckaid.site/sitemap.xml`
-- Processing status: Successfully processed.
-- Last read: 18 June 2026.
-- Discovered pages: 98.
-- Discovered videos: 0.
+### Google Search Console DNS Verification
 
-The figure of 98 represents pages discovered through the sitemap. It does not mean that all 98 pages were indexed by Google.
+![Google Search Console DNS Verification](gpt%20search%20console%20dns%20verify.png)
 
-## Indexing Evidence
+---
 
-The available Search Console screenshots showed five indexed pages and nine pages that were not indexed at the time of the report.
+## 3. Sitemap & Website Indexing
 
-The five indexed URLs included:
+Google Search Console was used to submit the website sitemap and monitor Google's discovery and indexing of website pages.
 
-- `http://gptruckaid.site/`
-- `/tire-and-truck-repairs-near-me`
-- `/truck-repair-near-me`
-- `/vehicle-performance-tools-axle-load-calculator`
-- `/centurion-truck-repairs-and-truck-towing`
+These screenshots provide historical evidence of the sitemap and indexing information available during the project.
 
-These records provide historical evidence of Google's indexing activity. They are not a statement of the website's current search status.
+### XML Sitemap
 
-## Search Visibility
+![GP Truck Aid Sitemap](sitemap.png)
 
-A historical Google search screenshot is available showing GP Truck Aid in search results, including an AI-generated description of the business.
+### Page Indexing Report
 
-This provides an additional example of the project's online discoverability.
+![Google Search Console Page Indexing Report](page%20indexing%20search%20console.png)
 
-## Supporting Evidence
+### Additional Page Indexing Information
 
-The following original screenshots will be added to this section:
+![Google Search Console Additional Indexing Information](page%20indexing%20search%20console%202.png)
 
-- Domain setup.
-- DNS ownership verification.
-- Sitemap processing.
-- Page indexing reports.
-- Google search results.
+---
 
-## Project Learning
+## 4. Facebook Business Presence
 
-This work provided practical exposure to:
+A Facebook business presence was also developed to support the brand's online visibility and provide another channel for communicating the business concept and services.
 
-- Domain and DNS configuration.
-- Website ownership verification.
-- Google Search Console.
-- XML sitemap submission.
-- Search indexing reports.
-- Technical website visibility and monitoring.
+The following screenshots document examples of the original Facebook page and its content.
 
-**Status:** Historical SEO documentation in progress.
+### Facebook Page & Content
+
+![GP Truck Aid Facebook Screenshot 1](gpt%20facebook_1.png)
+
+![GP Truck Aid Facebook Screenshot 2](gpt%20facebook_2.png)
+
+![GP Truck Aid Facebook Screenshot 3](gpt%20facebook_3.png)
+
+![GP Truck Aid Facebook Screenshot 4](gpt%20facebook_4.png)
+
+![GP Truck Aid Facebook Screenshot 5](gpt%20facebook_5.png)
+
+![GP Truck Aid Facebook Screenshot 6](gpt%20facebook_6.png)
+
+![GP Truck Aid Facebook Screenshot 7](gpt%20facebook_7.png)
+
+![GP Truck Aid Facebook Screenshot 8](gpt%20facebook_8.png)
+
+---
+
+## 5. Project Notes
+
+The screenshots in this section are historical evidence from the original GP Truck Aid digital business project.
+
+They demonstrate practical work involving:
+
+- Website and online presence development
+- Domain and DNS configuration
+- Google Search Console setup
+- XML sitemap submission
+- Search indexing monitoring
+- Facebook business page development
+- Digital content and online business presentation
+
+The original website is no longer hosted. These materials are retained for portfolio and project documentation purposes.
+
+For examples of AI search visibility, GEO exploration and ChatGPT business discovery, see the separate [SEO & Search Visibility](../seo-and-search-visibility/README.md) section.
+
+---
+
+**GP Truck Aid – Original Digital Presence & Website Evidence**
+
