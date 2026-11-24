@@ -58,7 +58,7 @@ This repository preserves that project history and separately showcases new inte
 
 ---
 
-# 1. Interactive Portfolio Demonstration
+# 2. Interactive Portfolio Demonstration
 
 ## Fuel & Trip Profitability Calculator
 
